@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">SismologiaChile</string>
+  <string name="title">Chile Alerta</string>
+  <string name="subtitle">Info from Sismologia.net</string>
+</resources>
