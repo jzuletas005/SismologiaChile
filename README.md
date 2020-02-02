@@ -9,6 +9,8 @@ Sismologia Chile
 
 DSM Project
 
+# API design
+
 # Project Status
 In progress.. 
 # Alerts
