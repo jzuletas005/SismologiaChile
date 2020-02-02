@@ -29,7 +29,8 @@ public interface AlertaSismosApi {
   /**
    * Get JSON
    * @param select to use
-   * @return JSON
+   * @param country to use
+   * @return
    */
   @GET("?user=jzuletas")
   Call<AlertaSismosApiResult> getUltimosSimos(
