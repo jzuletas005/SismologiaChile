@@ -13,6 +13,12 @@ Chile Alerta
 # Restricción 
 Una consulta por minuto / One query per minute
 
+## SDK
+
+ Minimum API 26 
+ 
+ Target API 29
+
 # Tools
 
 JAVA 8, Gradle, Retrofit, Leak Canary, Fresco, Okhttp, Prettytime.
