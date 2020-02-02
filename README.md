@@ -13,6 +13,10 @@ Chile Alerta
 # Restricción 
 Una consulta por minuto / One query per minute
 
+# Tools
+
+JAVA 8, Gradle, Retrofit, Leak Canary, Fresco, Okhttp, Prettytime.
+
 # API design
 
 https://github.com/jzuletas005/SismologiaChile/blob/master/Diagrama%20de%20clases%20SismologíaChile.png
