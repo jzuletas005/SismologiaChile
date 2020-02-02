@@ -10,6 +10,9 @@ Sismologia Chile / DSM Project
 # App Name
 Chile Alerta
 
+# Restricción 
+Una consulta por minuto / One query per minute
+
 # API design
 
 # Project Status
