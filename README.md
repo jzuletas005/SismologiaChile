@@ -14,9 +14,9 @@ DSM Project
 # Project Status
 In progress.. 
 # Alerts
-Does not show earthquake data (31/01/2020)
+Does not show earthquake data (31/01/2020) : Solved
 
-Does not show earthquake data (02/02/2020)
+Does not show earthquake data (02/02/2020) : Solved
                 
               
                 
