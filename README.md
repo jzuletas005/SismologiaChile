@@ -15,6 +15,8 @@ Una consulta por minuto / One query per minute
 
 # API design
 
+https://github.com/jzuletas005/SismologiaChile/blob/master/Diagrama%20de%20clases%20SismologíaChile.png
+
 # Project Status
 In progress.. 
 # Alerts
