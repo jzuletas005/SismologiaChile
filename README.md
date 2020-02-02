@@ -5,9 +5,10 @@ Application gets earthquake data through the API: https://github.com/TBMSP/Chile
 Javier Zuleta Silva
 
 # Project Name 
-Sismologia Chile
+Sismologia Chile / DSM Project
 
-DSM Project
+# App Name
+Chile Alerta
 
 # API design
 
